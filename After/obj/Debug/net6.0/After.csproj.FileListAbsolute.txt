@@ -1,0 +1,15 @@
+C:\Users\tomas.m\Documents\after\After\After\obj\Debug\net6.0\After.csproj.AssemblyReference.cache
+C:\Users\tomas.m\Documents\after\After\After\obj\Debug\net6.0\After.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tomas.m\Documents\after\After\After\obj\Debug\net6.0\After.AssemblyInfoInputs.cache
+C:\Users\tomas.m\Documents\after\After\After\obj\Debug\net6.0\After.AssemblyInfo.cs
+C:\Users\tomas.m\Documents\after\After\After\obj\Debug\net6.0\After.csproj.CoreCompileInputs.cache
+C:\Users\tomas.m\Documents\after\After\After\bin\Debug\net6.0\After.exe
+C:\Users\tomas.m\Documents\after\After\After\bin\Debug\net6.0\After.deps.json
+C:\Users\tomas.m\Documents\after\After\After\bin\Debug\net6.0\After.runtimeconfig.json
+C:\Users\tomas.m\Documents\after\After\After\bin\Debug\net6.0\After.dll
+C:\Users\tomas.m\Documents\after\After\After\bin\Debug\net6.0\After.pdb
+C:\Users\tomas.m\Documents\after\After\After\obj\Debug\net6.0\After.dll
+C:\Users\tomas.m\Documents\after\After\After\obj\Debug\net6.0\ref\After.dll
+C:\Users\tomas.m\Documents\after\After\After\obj\Debug\net6.0\After.pdb
+C:\Users\tomas.m\Documents\after\After\After\obj\Debug\net6.0\After.genruntimeconfig.cache
+C:\Users\tomas.m\Documents\after\After\After\obj\Debug\net6.0\refint\After.dll

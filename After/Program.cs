@@ -1,0 +1,1 @@
+﻿Dictionary<string, double[2]> Dic = new Dictionary<string, double[2]>();
